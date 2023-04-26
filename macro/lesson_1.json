@@ -1,0 +1,66 @@
+{
+  "name": "lesson_1",
+  "filename": "lesson_1.json",
+  "commands": [
+    {
+      "cmd_type": 1,
+      "command": "BOW_DOWN",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "WAVE",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "BOW_DOWN",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "BOW_DOWN",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "BOW_DOWN",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "WAVE",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "SIDE_PUNCH_R",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "MOVE_FORWARD_BALL",
+      "angles": [],
+      "iterations": 2
+    },
+    {
+      "cmd_type": 1,
+      "command": "CLAP",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "BOW_DOWN",
+      "angles": [],
+      "iterations": 1
+    }
+  ]
+}

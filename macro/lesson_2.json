@@ -1,0 +1,54 @@
+{
+  "name": "lesson_2",
+  "filename": "lesson_2.json",
+  "commands": [
+    {
+      "cmd_type": 1,
+      "command": "GET_BALL",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "MOVE_FORWARD_BALL",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "MOVE_FORWARD_BALL",
+      "angles": [],
+      "iterations": 2
+    },
+    {
+      "cmd_type": 1,
+      "command": "DROP_BALL",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_R",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_R",
+      "angles": [],
+      "iterations": 1
+    }
+  ]
+}

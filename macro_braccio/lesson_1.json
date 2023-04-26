@@ -1,0 +1,118 @@
+{
+  "name": "lesson_1",
+  "filename": "lesson_1.json",
+  "commands": [
+    {
+      "x": 10,
+      "y": 190,
+      "z": 90,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 30,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 30,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 90,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 90,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 30,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 30,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 10,
+      "y": 190,
+      "z": 90,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 150,
+      "y": 250,
+      "z": 150,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    },
+    {
+      "x": 175,
+      "y": 275,
+      "z": 25,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    },
+    {
+      "x": 175,
+      "y": 275,
+      "z": 25,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 225,
+      "y": 250,
+      "z": 200,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 400,
+      "y": 0,
+      "z": 175,
+      "wrist": 90,
+      "gripper": 73,
+      "command_type": 1
+    },
+    {
+      "x": 400,
+      "y": 0,
+      "z": 175,
+      "wrist": 90,
+      "gripper": 0,
+      "command_type": 1
+    }
+  ]
+}

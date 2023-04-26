@@ -1,0 +1,54 @@
+{
+  "name": "lesson_3",
+  "filename": "lesson_3.json",
+  "commands": [
+    {
+      "cmd_type": 1,
+      "command": "SIDE_PUNCH_R",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "SIDE_KICK_L",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "FLYING_DOWN_UP",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 3
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 2
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 1
+    },
+    {
+      "cmd_type": 1,
+      "command": "TURN_L",
+      "angles": [],
+      "iterations": 1
+    }
+  ]
+}
